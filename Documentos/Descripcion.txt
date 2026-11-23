@@ -1,0 +1,3 @@
+Eloy Orellana
+3°D
+Descripción del proyecto: Mi proyecto lo que hace es dar la bienvenida, guardar los nombre de estudiantes y los cursos en variables y enseñarlos con el código, además de solicitar al usuario que ingrese su lenguaje de programación favorito y añadirle cualquier función que quiera.
